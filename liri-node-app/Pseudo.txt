@@ -1,0 +1,5 @@
+PseudoCode To finish Assignment... 
+
+To Do
+-Properly Define Api Security Measures By Using The .env file to link the actual keys to the call.. (?)
+-Use the spotify-this-song command to make an api call 
